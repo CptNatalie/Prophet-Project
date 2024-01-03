@@ -10,3 +10,6 @@ Step 2: Mine the search traffic data for seasonality.
 Step 3: Relate the search traffic to stock price patterns.
 
 Step 4: Create a time series model with Prophet.
+
+#References
+Per usual ChatGPT and Google was used to help me solve this module 8 homework. 
