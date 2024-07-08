@@ -1,4 +1,4 @@
-# Prophet Project
+# Prophet Forecasting 
 
  Analyzing the company's financial and user data in clever ways to make the company grow. Predicting search traffic can translate into the ability to successfully trade stock. 
  
