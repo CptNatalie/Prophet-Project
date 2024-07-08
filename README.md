@@ -1,7 +1,8 @@
-# Prophet-challenge
+# Prophet Project
 
- You've been tasked with analyzing the company's financial and user data in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. 
- The instructions for this Challenge are divided into four steps, as follows:
+ Analyzing the company's financial and user data in clever ways to make the company grow. Predicting search traffic can translate into the ability to successfully trade stock. 
+ 
+ This challenge is divided into four steps:
 
 Step 1: Find unusual patterns in hourly Google search traffic.
 
@@ -12,4 +13,4 @@ Step 3: Relate the search traffic to stock price patterns.
 Step 4: Create a time series model with Prophet.
 
 #References
-Per usual ChatGPT and Google was used to help me solve this module 8 homework. 
+ChatGPT and Google 
